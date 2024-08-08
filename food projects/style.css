@@ -1,0 +1,35 @@
+.nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+
+}
+li,ul,h1{
+    display: inline ;
+    background-color: black;
+    color: white;
+}
+ul{
+    margin-left: 40%;
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li :hover{
+    color: white;
+
+}
+.box{
+    border-color: black;
+    border-width: 2;
+
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;}
+    
+    .from{
+        background-color: black;
+    }
